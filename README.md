@@ -6,7 +6,6 @@
 *"Código limpo, mente blindada e o pé na terra."*
 
 [![Discord](https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DAdDZv6A5G)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/PedroTomazi)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phtomazi)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohtomazi)
 
