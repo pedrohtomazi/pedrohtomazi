@@ -1,16 +1,74 @@
-# 💫 About Me:
-Desempregado.<br>Meu sonho é ter uma fazenda<br>Maior contribuidor da StrFramework<br>Filho perdido do Alexandre de Moraes
+<div align="center">
 
+# PEDRO TOMAZI
+**DEVELOPER // BUILDER // CONSTRUTOR DE SISTEMAS**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DAdDZv6A5G) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phtomazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohtomazi) 
+*"Código limpo, mente blindada e o pé na terra."*
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pedrohtomazi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=pedrohtomazi&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pedrohtomazi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Discord](https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DAdDZv6A5G)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/PedroTomazi)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phtomazi)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohtomazi)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=pedrohtomazi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ⚙️ SOBRE MIM
+
+- 🪓 **Status:** Operando no modo livre (atualmente sem patrão, focado no próprio corre).
+- 🚜 **Objetivo de Vida:** Conquistar minha própria fazenda, longe do barulho e perto do que importa.
+- 🏗️ **Legado no Código:** Principal contribuidor e arquiteto por trás da **StrFramework**.
+- ⚖️ **Linhagem:** Filho perdido do Alexandre de Moraes (supostamente).
+
+---
+
+## 🛠️ ARSENAL TÉCNICO
+
+**Linguagens & Core**
+<p>
+  <img src="https://img.shields.io/badge/Lua-18181B?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Rust-18181B?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-18181B?style=for-the-badge&logo=jquery&logoColor=0769AD" />
+</p>
+
+**Infraestrutura, Servidores & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-18181B?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Nginx-18181B?style=for-the-badge&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/Apache-18181B?style=for-the-badge&logo=apache&logoColor=D42029" />
+  <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05033" />
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-18181B?style=for-the-badge&logo=githubactions&logoColor=2671E5" />
+</p>
+
+**Bancos de Dados**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=316192" />
+  <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=sqlite&logoColor=07405e" />
+</p>
+
+---
+
+## 📊 MÉTRICAS DE COMBATE
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=pedrohtomazi&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pedrohtomazi&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=C9D1D9&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=pedrohtomazi&theme=dark&background=0D1117&border=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&hide_border=false" />
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=pedrohtomazi&label=VISITAS&color=111111&style=for-the-badge)](https://visitcount.itsvg.in)
+
+<br/>
+
+<sub>esse readme foi feito pelo claude</sub>
+
+</div>
