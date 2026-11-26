@@ -1,9 +1,9 @@
 <div align="center">
 
 # PEDRO TOMAZI
-**DEVELOPER // BUILDER // CONSTRUTOR DE SISTEMAS**
+**DEVELOPER // BUILDER**
 
-*"Código limpo, mente blindada e o pé na terra."*
+*"quero largar tudo e viver na roça."*
 
 [![Discord](https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DAdDZv6A5G)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phtomazi)
@@ -17,7 +17,7 @@
 
 - 🪓 **Status:** Operando no modo livre (atualmente sem patrão, focado no próprio corre).
 - 🚜 **Objetivo de Vida:** Conquistar minha própria fazenda, longe do barulho e perto do que importa.
-- 🏗️ **Legado no Código:** Principal contribuidor e arquiteto por trás da **StrFramework**.
+- 🏗️ **Legado no Código:** Contribuidor e arquiteto por trás da **StrFramework**.
 - ⚖️ **Linhagem:** Filho perdido do Alexandre de Moraes (supostamente).
 
 ---
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 MÉTRICAS DE COMBATE
+## 📊 MÉTRICAS
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=pedrohtomazi&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true" />
