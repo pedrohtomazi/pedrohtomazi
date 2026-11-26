@@ -15,7 +15,7 @@
 
 ## ⚙️ SOBRE MIM
 
-- 🪓 **Status:** Operando no modo livre (atualmente sem patrão, focado no próprio corre).
+- 🪓 **Status:** Sem trabalho na área, atualmente tudo que eu faço aqui é Hobby.
 - 🚜 **Objetivo de Vida:** Conquistar minha própria fazenda, longe do barulho e perto do que importa.
 - 🏗️ **Legado no Código:** Contribuidor e arquiteto por trás da **StrFramework**.
 - ⚖️ **Linhagem:** Filho perdido do Alexandre de Moraes (supostamente).
