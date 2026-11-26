@@ -68,6 +68,6 @@
 
 <br/>
 
-<sub>esse readme foi feito pelo claude</sub>
+<sub>sai daqui curioso</sub>
 
 </div>
